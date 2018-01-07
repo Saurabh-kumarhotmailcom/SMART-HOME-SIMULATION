@@ -1,5 +1,8 @@
 package com.smarthome.simulation;
 
+/**
+ * The Class Floor.
+ */
 public class Floor implements HomeObject{
 	private Room room;
 

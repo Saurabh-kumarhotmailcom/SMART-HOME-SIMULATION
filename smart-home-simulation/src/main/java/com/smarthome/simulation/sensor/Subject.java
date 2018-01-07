@@ -2,6 +2,9 @@ package com.smarthome.simulation.sensor;
 
 import com.smarthome.simulation.device.Observer;
 
+/**
+ * The Interface Subject.
+ */
 public interface Subject {
 
 	//methods to register and unregister observers

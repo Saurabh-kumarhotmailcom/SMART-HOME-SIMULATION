@@ -1,5 +1,8 @@
 package com.smarthome.simulation;
 
+/**
+ * The Class Room.
+ */
 public class Room implements HomeObject{
 	private Window window;
 

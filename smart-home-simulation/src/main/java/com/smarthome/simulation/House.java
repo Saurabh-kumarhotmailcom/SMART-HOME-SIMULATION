@@ -1,5 +1,8 @@
 package com.smarthome.simulation;
 
+/**
+ * The Enum House.Singleton House object
+ */
 public enum House implements HomeObject{
 	INSTANCE;
 	

@@ -2,6 +2,9 @@ package com.smarthome.simulation.device;
 
 import com.smarthome.simulation.sensor.Subject;
 
+/**
+ * The Class TV.
+ */
 public class TV implements SmartDevice,Observer{
 
 	private Subject sub=null;

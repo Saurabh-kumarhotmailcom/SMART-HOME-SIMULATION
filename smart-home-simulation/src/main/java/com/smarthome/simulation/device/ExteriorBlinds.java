@@ -1,8 +1,14 @@
+/*
+ * 
+ */
 package com.smarthome.simulation.device;
 
 import com.smarthome.simulation.sensor.Subject;
 import com.smarthome.simulation.sensor.WindSensor;
 
+/**
+ * The Class ExteriorBlinds.
+ */
 public class ExteriorBlinds implements SmartDevice,Observer{
 
 	private Subject sub;

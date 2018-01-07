@@ -3,6 +3,9 @@ package com.smarthome.simulation.device;
 import com.smarthome.simulation.sensor.MotionDetector;
 import com.smarthome.simulation.sensor.Subject;
 
+/**
+ * The Class Lights.
+ */
 public class Lights implements SmartDevice,Observer{
 	private Subject sub=null;
 
